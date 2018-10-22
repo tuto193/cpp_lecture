@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+task01/first_diff
+task01/task01.kdev4
+.directory
